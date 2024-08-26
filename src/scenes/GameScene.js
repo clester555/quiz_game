@@ -46,7 +46,7 @@ export class GameScene extends Phaser.Scene {
         this.emitter.x = 512;
         this.emitter.y = 576/2;
         this.emitter.explode(20);
-        this.explosionAudio.play();
+        //this.explosionAudio.play();
 
         
 
